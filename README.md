@@ -149,15 +149,3 @@ Sessions armazenam informações diretamente no servidor, utilizando um identifi
 A utilização de Cookies e Sessions é essencial no desenvolvimento de aplicações web com PHP. Enquanto os Cookies permitem armazenar preferências e informações simples no navegador, as Sessions garantem maior segurança ao controlar dados importantes, como autenticação de usuários.
 
 Com esta atividade foi possível compreender como o PHP mantém o estado do usuário entre diferentes requisições HTTP, aplicando esses conceitos em exemplos práticos de login e personalização de interface.
-
----
-
-# Referências
-
-ALVES, César. PHP: Programando com Orientação a Objetos. São Paulo: Novatec, 2010.
-
-ZANDSTRA, Matt. PHP Objects, Patterns, and Practice. 5ª edição. Apress, 2016.
-
-ULLMAN, Larry. PHP e MySQL: Desenvolvimento de Aplicações Web. 4ª edição. São Paulo: Pearson, 2012.
-
-CASTRO, Bruno R. PHP: Guia Prático para Desenvolvimento Web com POO. São Paulo: Ciência Moderna, 2013.
